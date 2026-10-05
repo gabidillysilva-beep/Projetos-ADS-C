@@ -1,6 +1,6 @@
 # Projetos ADS - Linguagem C 🚀
 
-Repositório dedicado aos meus estudos e projetos desenvolvidos ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Aqui você encontrará códigos, exercícios e desafios práticos focados em lógica de programação e na **linguagem C**[cite: 5].
+Repositório dedicado aos meus estudos e projetos desenvolvidos ao longo do curso de **Análise e Desenvolvimento de Sistemas (ADS)**. Aqui você encontrará códigos, exercícios e desafios práticos focados em lógica de programação e na **linguagem C**.
 
 ---
 
@@ -8,43 +8,43 @@ Repositório dedicado aos meus estudos e projetos desenvolvidos ao longo do curs
 
 | Pasta | Conteúdo |
 |---|---|
-| `01_olamundo` | Primeiro programa em C, estrutura básica[cite: 5] |
-| `02_variaveis_e_formatacao` | Variáveis, tipos de dados e formatação de saída[cite: 5] |
-| `03_entrada_e_saida_de_dados` | Leitura de dados com `scanf` e exibição com `printf`[cite: 5] |
-| `04_Operadores_matematicos_basicos` | Operadores aritméticos: `+`, `-`, `*`, `/`, `%`[cite: 5] |
-| `05_operadores_de_atribuicao` | Operadores de atribuição: `=`, `+=`, `-=`, `*=`, `/=`[cite: 5] |
-| `06_operadores_de_incremento_e_decremento` | Operadores `++` e `--`, pré e pós-incremento[cite: 5] |
-| `07_Manipulacao_de_variaveis_inteiras_e_de_ponto_flutuante` | Conversão e manipulação de tipos inteiros e float[cite: 5] |
-| `08_calculo_de_media` | Cálculo de média com operadores aritméticos e conversão de tipos[cite: 5] |
-| `09_super_trunfo_nivel_aventureiro` | Desafio Super Trunfo — Nível Aventureiro[cite: 5] |
+| `01_olamundo` | Primeiro programa em C, estrutura básica |
+| `02_variaveis_e_formatacao` | Variáveis, tipos de dados e formatação de saída |
+| `03_entrada_e_saida_de_dados` | Leitura de dados com `scanf` e exibição com `printf` |
+| `04_Operadores_matematicos_basicos` | Operadores aritméticos: `+`, `-`, `*`, `/`, `%` |
+| `05_operadores_de_atribuicao` | Operadores de atribuição: `=`, `+=`, `-=`, `*=`, `/=` |
+| `06_operadores_de_incremento_e_decremento` | Operadores `++` e `--`, pré e pós-incremento |
+| `07_Manipulacao_de_variaveis_inteiras_e_de_ponto_flutuante` | Conversão e manipulação de tipos inteiros e float |
+| `08_calculo_de_media` | Cálculo de média com operadores aritméticos e conversão de tipos |
+| `09_super_trunfo_nivel_aventureiro` | Desafio Super Trunfo — Nível Aventureiro |
 
 ---
 
 ## 🏆 Desafio Super Trunfo
 
-Projeto prático em C para criação de um jogo de cartas temático[cite: 5]. O jogo envolve:
+Projeto prático em C para criação de um jogo de cartas temático. O jogo envolve:
 
-- Cadastro de cidades com atributos como **população**, **PIB per capita** e **área**[cite: 5]
-- Comparação entre cartas usando lógica condicional[cite: 5]
-- Progressão em níveis de dificuldade: **Novato → Aventureiro → Mestre**[cite: 5]
+- Cadastro de cidades com atributos como **população**, **PIB per capita** e **área**
+- Comparação entre cartas usando lógica condicional
+- Progressão em níveis de dificuldade: **Novato → Aventureiro → Mestre**
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem C** — foco principal dos estudos[cite: 5]
-- **GCC / MinGW** — compilador C[cite: 5]
-- **Visual Studio Code** — ambiente de desenvolvimento[cite: 5]
-- **Git & GitHub** — controle de versão[cite: 5]
+- **Linguagem C** — foco principal dos estudos
+- **GCC / MinGW** — compilador C
+- **Visual Studio Code** — ambiente de desenvolvimento
+- **Git & GitHub** — controle de versão
 
 ---
 
 ## 📚 Sobre o Curso
 
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)[cite: 5]  
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Disciplina:** Fundamentos de Programação[cite: 5]  
-**Objetivo:** Desenvolver lógica de programação e dominar a linguagem C[cite: 5]
+**Objetivo:** Desenvolver lógica de programação e dominar a linguagem C
 
 ---
 
-*Desenvolvido por **Gabriela Dilly Silva***[cite: 5]
+*Desenvolvido por **Gabriela Dilly Silva***
